@@ -1,0 +1,2 @@
+#morse
+print(1)
